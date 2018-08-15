@@ -1,0 +1,1 @@
+# Microservice boilerplate built with Golang Gin web framework and running on Kubernetes
