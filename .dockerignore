@@ -1,0 +1,4 @@
+vendor/*
+.git
+.gitignore
+README.md
